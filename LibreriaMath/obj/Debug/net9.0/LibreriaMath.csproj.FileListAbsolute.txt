@@ -1,0 +1,14 @@
+C:\Users\Miniguindi\Desktop\Tarea 2.2\MiProyectoGit_LSF\LibreriaMath\bin\Debug\net9.0\LibreriaMath.exe
+C:\Users\Miniguindi\Desktop\Tarea 2.2\MiProyectoGit_LSF\LibreriaMath\bin\Debug\net9.0\LibreriaMath.deps.json
+C:\Users\Miniguindi\Desktop\Tarea 2.2\MiProyectoGit_LSF\LibreriaMath\bin\Debug\net9.0\LibreriaMath.runtimeconfig.json
+C:\Users\Miniguindi\Desktop\Tarea 2.2\MiProyectoGit_LSF\LibreriaMath\bin\Debug\net9.0\LibreriaMath.dll
+C:\Users\Miniguindi\Desktop\Tarea 2.2\MiProyectoGit_LSF\LibreriaMath\bin\Debug\net9.0\LibreriaMath.pdb
+C:\Users\Miniguindi\Desktop\Tarea 2.2\MiProyectoGit_LSF\LibreriaMath\obj\Debug\net9.0\LibreriaMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miniguindi\Desktop\Tarea 2.2\MiProyectoGit_LSF\LibreriaMath\obj\Debug\net9.0\LibreriaMath.AssemblyInfoInputs.cache
+C:\Users\Miniguindi\Desktop\Tarea 2.2\MiProyectoGit_LSF\LibreriaMath\obj\Debug\net9.0\LibreriaMath.AssemblyInfo.cs
+C:\Users\Miniguindi\Desktop\Tarea 2.2\MiProyectoGit_LSF\LibreriaMath\obj\Debug\net9.0\LibreriaMath.csproj.CoreCompileInputs.cache
+C:\Users\Miniguindi\Desktop\Tarea 2.2\MiProyectoGit_LSF\LibreriaMath\obj\Debug\net9.0\LibreriaMath.dll
+C:\Users\Miniguindi\Desktop\Tarea 2.2\MiProyectoGit_LSF\LibreriaMath\obj\Debug\net9.0\refint\LibreriaMath.dll
+C:\Users\Miniguindi\Desktop\Tarea 2.2\MiProyectoGit_LSF\LibreriaMath\obj\Debug\net9.0\LibreriaMath.pdb
+C:\Users\Miniguindi\Desktop\Tarea 2.2\MiProyectoGit_LSF\LibreriaMath\obj\Debug\net9.0\LibreriaMath.genruntimeconfig.cache
+C:\Users\Miniguindi\Desktop\Tarea 2.2\MiProyectoGit_LSF\LibreriaMath\obj\Debug\net9.0\ref\LibreriaMath.dll

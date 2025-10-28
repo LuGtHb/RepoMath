@@ -1,10 +1,15 @@
-﻿public static int MaximoComunDivisor(int a, int b)
+﻿namespace LibreriaMath
 {
-    while (b != 0)
+    public static class Matematicas
     {
-        int temp = b;
-        b = a % b;
-        a = temp;
+        public static int Sumatorio(int n)
+        {
+            int suma = 0;
+            for (int i = 1; i <= n; i++)
+            {
+                suma += i;
+            }
+            return suma;
+        }
     }
-    return a; 
 }
